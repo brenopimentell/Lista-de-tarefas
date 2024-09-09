@@ -9,10 +9,8 @@
 
 body {
     background-image: url("../img/image.jpg");
-    background-size: 100% 120%;
-    /* OU PODERIA USAR O ->
     background-position: center; 
-    background-size: cover; */
+    background-size: cover;
 }
 
 button {
